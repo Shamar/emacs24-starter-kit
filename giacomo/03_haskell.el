@@ -1,2 +1,2 @@
 ;; haskell configuration
-;(starter-kit-load "haskell")
+(starter-kit-load "haskell")
